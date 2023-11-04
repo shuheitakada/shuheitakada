@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as a freelance web application developer.
-- 👯 I mainly use Ruby on Rails.
+- 👨‍💻 I’m currently working as a freelance web application developer.
+- 🍓 I mainly use Ruby on Rails.
 - 🌱 I’m currently learning Next.js / NestJS / Go
 - 👍 Like: Workout / Shogi / Walking / Simple
 - 📝 I regularly write articles on [https://zenn.dev/shuhei_takada](https://zenn.dev/shuhei_takada)
