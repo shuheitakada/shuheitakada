@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [https://zenn.dev/shuhei_takada](https://zenn.dev/shuhei_takada)
 - 📄 Know about my experiences [https://github.com/shuheitakada/resume](https://github.com/shuheitakada/resume)
 
-### Blogs posts
+### 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [【DB設計】テーブル設計はいきなりテーブルから考えてはいけない話](https://zenn.dev/shuhei_takada/articles/ca1e694e3276a2)
 - [【DB設計】テーブル設計レビュー時のチェックリスト](https://zenn.dev/shuhei_takada/articles/ab8bc796fbb305)
