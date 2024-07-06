@@ -11,9 +11,9 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【NestJS】REPLの便利な使い方TIPS](https://zenn.dev/shuhei_takada/articles/052a10de2e8a8d)
 - [GitHub ActionsでSchemaSpyのER図を生成してS3にアップロードする](https://zenn.dev/shuhei_takada/articles/ecb030e6529fee)
 - [RuboCopのMetrics/AbcSizeで時間を浪費するのそろそろやめませんか？](https://zenn.dev/shuhei_takada/articles/2a516d08aa035b)
 - [【DB設計】テーブル設計はいきなりテーブルから考えてはいけない話](https://zenn.dev/shuhei_takada/articles/ca1e694e3276a2)
 - [【DB設計】テーブル設計レビュー時のチェックリスト](https://zenn.dev/shuhei_takada/articles/ab8bc796fbb305)
-- [GA4のuser_id、user_pseudo_id、ga_session_idの違いについて](https://zenn.dev/shuhei_takada/articles/b30d5176aef01e)
 <!-- BLOG-POST-LIST:END -->
