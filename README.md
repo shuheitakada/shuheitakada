@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m currently working as a freelance web application developer.
-- 🍓 I mainly use Ruby on Rails, sometimes React, Vue, NestJS.
-- 🌱 I’m currently learning Next.js / NestJS / Go
-- 👍 Like: Workout / Shogi / Walking / Simple
+- 🍓 I mainly use TypeScript and NestJS. I'm experienced with Ruby on Rails, and occasionally use React and Remix.
+- 🌱 Currently learning Go and Next.js
+- 👍 Interests: Workout / Shogi / Chess / Walking / Simple
 - 📝 I regularly write articles on [https://zenn.dev/shuhei_takada](https://zenn.dev/shuhei_takada)
 - 📄 Know about my experiences [https://github.com/shuheitakada/resume](https://github.com/shuheitakada/resume)
 
